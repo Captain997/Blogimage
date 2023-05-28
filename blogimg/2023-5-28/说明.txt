@@ -1,0 +1,1 @@
+Ubuntu设置静态IP
